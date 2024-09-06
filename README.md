@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Tim Magee
-I’m a recent computer science graduate with 15 months of diverse internship experience. I have a strong foundation in software development and enjoy working with a variety of technologies, including JavaScript, ReactJS, HTML, CSS, and more.
+I’m a recent computer science graduate with 15 months of diverse internship experience. I have a strong foundation in software development and enjoy working with a variety of technologies, including JavaScript, ReactJS, Python, C, and more.
 
 Some of my projects:
 - [Bizi Boardz - A project management tool that syncs tasks with your GitHub repository for seamless tracking and storage](https://github.com/tmagee02/bizi-boardz)
