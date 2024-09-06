@@ -4,7 +4,7 @@ I’m a recent computer science graduate with 15 months of diverse internship ex
 Some of my projects:
 - [Bizi Boardz - A project management tool that syncs tasks with your GitHub repository for seamless tracking and storage](https://github.com/tmagee02/bizi-boardz)
   - Technologies: Javascript, ReactJS, ElectronJS, CryptoJS, CSS, HTML
-- [Parallized Mandelbrot Set Generator - A parallelized high-performance tool for fast and efficient fractal generation and visualization]()
+- [Parallized Mandelbrot Set Generator - A parallelized high-performance tool for fast and efficient fractal generation and visualization](https://github.com/tmagee02/mandelbrot-generator)
   - Technologies: C, MPI, OpenMP
 
 📫 How to reach me:
